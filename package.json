@@ -1,0 +1,23 @@
+{
+  "name": "alien-kada",
+  "version": "1.0.0",
+  "description": "Alien Kada: Gali No. 10 - 3D alien transformation game (web + Android)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host",
+    "android:sync": "vite build && npx cap sync android",
+    "android:open": "npx cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.2",
+    "@capacitor/core": "^8.5.2",
+    "@fontsource/noto-sans-devanagari": "^5.3.0",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.5.2",
+    "vite": "^8.3.1"
+  }
+}
