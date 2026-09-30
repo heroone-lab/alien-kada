@@ -2,7 +2,7 @@
 
 A 3D alien-transformation game inspired by Ben 10, with original characters, set on an Indian street. Built with Three.js, runs in the browser, and is packaged for Android with Capacitor.
 
-**Play online:** https://heroone-lab.github.io/alien-kada/  
+**Play online:** https://raw.githack.com/heroone-lab/alien-kada/gh-pages/index.html (first visit: tap "Open the page")  
 **Android APK:** [Releases](https://github.com/heroone-lab/alien-kada/releases/latest)
 
 ## Run (web)
